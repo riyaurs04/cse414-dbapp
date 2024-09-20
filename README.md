@@ -1,1 +1,1 @@
-# cse414-dbapp
+# CSE 414 - Database Application
